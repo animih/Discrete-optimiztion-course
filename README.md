@@ -1,2 +1,2 @@
 # DO
-Just programmes that i wrote for Discrete Optimisation course tasks. The repository is created personally for Kozlov Sergey
+The repository is created for my friend to share the code
